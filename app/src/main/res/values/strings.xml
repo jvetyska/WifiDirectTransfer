@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">WifiDirectTransfer</string>
+
+    <!-- SyncActivity strings -->
+    <string name="sync_files">Sync Files</string>
+    <string name="files_found">Files found: %d</string>
+    <string name="sync_now">Sync Now</string>
+    <string name="cancel">Cancel</string>
+    <string name="done">Done</string>
+
+    <string name="scanning_files">Scanning for files…</string>
+    <string name="ready_to_sync">Ready to sync</string>
+    <string name="no_files_found">No files found to sync</string>
+    <string name="syncing_in_progress">Syncing in progress…</string>
+    <string name="cancelling_sync">Cancelling sync…</string>
+    <string name="sync_cancelled">Sync cancelled</string>
+    <string name="preparing_sync">Preparing to sync…</string>
+
+    <string name="progress_format">%1$d/%2$d</string>
+    <string name="syncing_progress">Syncing: %1$d of %2$d files</string>
+    <string name="sync_complete">Sync complete! %d files transferred</string>
+    <string name="sync_error">Sync error: %s</string>
+    <string name="error_scanning">Error scanning files</string>
+</resources>
